@@ -78,7 +78,7 @@ web_modules/
 .env.production.local
 .env.local
 
-# parcel-bundler cache (https://parceljs.org/)
+# parcel-bundler cache (https://parceljs.org/) this is for the caching
 .cache
 .parcel-cache
 
